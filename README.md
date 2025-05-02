@@ -16,3 +16,9 @@ This project is a simple, relational database for managing a **Clinic Booking Sy
 ```bash
 git clone https://github.com/yourusername/clinic-booking-system.git
 cd clinic-booking-system
+
+## 🔗 ERD (Entity-Relationship Diagram)
+
+You can view the ERD diagram [here](https://dbdiagram.io/d/clinic-booking-system-erd)
+
+![ERD Screenshot](screenshots/clinic-erd.png)
