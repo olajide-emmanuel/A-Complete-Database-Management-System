@@ -19,7 +19,4 @@ cd clinic-booking-system
 
 ## 🔗 ERD (Entity-Relationship Diagram)
 
-You can view the ERD diagram [here][(https://dbdiagram.io/d/clinic-booking-system-erd)
-
-![ERD Screenshot](screenshots/clinic-erd.png)
-](https://dbdiagram.io/d/Week-8-6814b3b61ca52373f535c2fd)
+You can view the ERD diagram [here] https://dbdiagram.io/d/Week-8-6814b3b61ca52373f535c2fd
